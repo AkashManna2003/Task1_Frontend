@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bg-body-tertiary{
+  width: 100%;
+  justify-content: space-between;
+}
+
+.form-heading h1{
+  font-size: 66px;
+  text-align: center;
+}
+.form-heading p{
+  font-size: 32px;
+  text-align: center;
+}
+
+.loginOutDiv{
+  align-items: center;
+  justify-content: center;
+}
+
+.login-form-input{
+  text-align: center;
+}
+
+.login-form-input .input{
+  text-align: center;
+}
+
+.login-form{
+  text-align: center;
+}
+
+.login-input{
+  margin-top: 0px;
+  margin-bottom: 20px;
+  width: 25vw;
+  height: 40px;
+  border-radius: 60px;
+  padding-left: 20px;
+}
+.login-label{
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+.login-btn{
+  width: 25vw;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 60px;
+  height: 40px;
+}
+
+.login-form{
+  margin-top: 70px;
+}
+
+.card{
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  /* height: 50vh !important; */
+  /* display: flex !important; */
+}
+.list{
+  display: flex;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.LL h2{
+  font-size: 22px;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.loginContainer
+{
+  text-align: center;
+}
+.mains{
+  padding-top: 15vh;
+}
+.loginBtn{
+  width: 25vw;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 60px;
+  height: 40px;
+}
